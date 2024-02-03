@@ -10,7 +10,7 @@ function slider() {
         contador = 0;
     }
 
-    box.style.transform = `translateX(${-contador * 350}px)`;
+    box.style.transform = `translateX(${-contador * 200}px)`;
 }
 
-setInterval( slider , 1000 );
+setInterval( slider , 1800 );

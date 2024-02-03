@@ -38,7 +38,7 @@
 
 .fundo {
     background-image: linear-gradient(to left, rgba(54, 54, 54), rgba(54, 54, 54) 50%, rgb(65, 65, 65) 50%, rgb(65, 65, 65) 100%, rgba(54, 54, 54) 100%);
-    height: 1120px;
+    height: 1140px;
     margin-top: 80px;
     padding-top: 10px;
 }
@@ -249,6 +249,13 @@
 }
 
 .data-certificado {
+    color: #fff;
+    font-size: 12px;
+    text-shadow: 0.5px 0.5px 1px #0c0c0c;
+    font-weight: 600;
+}
+
+.instituicao {
     color: #fff;
     font-size: 12px;
     text-shadow: 0.5px 0.5px 1px #0c0c0c;
