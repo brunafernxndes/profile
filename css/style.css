@@ -29,13 +29,18 @@
 }
 
 #container2 {
-    margin-top: 30px;
+    margin-top: 20px;
+}
+
+#container4 {
+    margin-top: 0;
 }
 
 .fundo {
     background-image: linear-gradient(to left, rgba(54, 54, 54), rgba(54, 54, 54) 50%, rgb(65, 65, 65) 50%, rgb(65, 65, 65) 100%, rgba(54, 54, 54) 100%);
-    height: 810px;
+    height: 1120px;
     margin-top: 80px;
+    padding-top: 10px;
 }
 
 #icone {
@@ -73,7 +78,7 @@
 }
 
 #cards {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .f-item1 {
