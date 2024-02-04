@@ -1,0 +1,24 @@
+@media screen and (max-width: 1235px) {
+    #container-escrita {
+        margin-top: 700px;
+    }
+
+    .f-item1 {
+        padding-top: 0;
+        margin-bottom: 40px;
+    }
+
+    .flex-item5 {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    #parte1 {
+        padding: 50px;
+        margin-right: 20px;
+    }
+    
+    #parte2 {
+        margin-right: 100px;
+    }
+}
