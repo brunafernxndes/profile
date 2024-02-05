@@ -66,6 +66,12 @@
         padding-right: 0;
     }
 
+    #cards2 {
+        margin-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
     #project {
         margin-left: 7px;
         margin-bottom: 30px;
@@ -110,6 +116,7 @@
 
     .item1 {
         text-align: center;
+        padding-right: 30px;
     }
 
     .item2 {
@@ -124,10 +131,18 @@
 
     #container2 {
         margin-top: 20px;
-        margin-bottom: -110px;
     }
 
     #project {
         margin-right: 10px;
+    }
+
+    .item1 #icon-ling7 {
+        border-radius: 100%;
+        width: 10px;
+        height: 3px;
+        animation: quica 0.4s cubic-bezier(.53, -0.03, .67, 1.06);
+        animation-direction: alternate-reverse;
+        animation-iteration-count: infinite;
     }
 }
