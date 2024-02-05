@@ -118,7 +118,6 @@
 
 .escrita {
     color: #fff;
-    margin-right: 30px;
 }
 
 .view {
@@ -130,6 +129,10 @@
     width: 100px;
     box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.2);
     cursor: pointer;
+}
+
+.botao-projetos {
+    text-align: right;
 }
 
 #imagem-c {
@@ -171,31 +174,20 @@
 
 #project {
     background-color: #414141;
-    margin-top: 100px;
     margin-top: 50px;
     box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.2);
-}
-
-#parte1 {
-    padding: 50px;
-    margin-right: 200px;
-}
-
-#parte2 {
-    margin-right: 100px;
+    padding: 30px;
 }
 
 #menu-final {
     color: #fff;
     font-size: 12px;
-    width: 460px;
     margin-top: 50px;
-    padding: 20px;
     cursor: pointer;
-}
-
-.item-container{
-    margin-left: 15px;
+    text-align: center;
+    padding-left: 360px;
+    padding-right: 360px;
+    padding-bottom: 20px;
 }
 
 .rodape {
@@ -212,21 +204,20 @@
 }
 
 .footer-item1 {
-    width: 350px;
-    padding: 28px;
+    margin-top: 30px;
+    text-align: left;
     color: #fff;
-    padding-left: 0;
 }
 
 .footer-item2 {
-    width: 350px;
+    margin-top: 30px;
     text-align: center;
+    color: #fff;
 }
 
 .footer-item3 {
-    width: 350px;
+    margin-top: 30px;
     text-align: right;
-    margin-left: 100px;
     color: #fff;
 }
 

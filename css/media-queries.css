@@ -21,4 +21,58 @@
     #parte2 {
         margin-right: 100px;
     }
+
+    #container-escrita {
+        margin-top: 820px;
+    }
+
+    .fundo {
+        background-image: linear-gradient(to left, rgba(54, 54, 54), rgba(54, 54, 54) 50%, rgb(54, 54, 54) 50%, rgb(54, 54, 54) 100%, rgba(54, 54, 54) 100%);
+        margin-top: 10px;
+    }
+
+    #cards {
+        margin-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #project {
+        margin-left: 7px;
+        margin-bottom: 30px;
+    }
+
+    .footer-item1 {
+        text-align: center;
+        margin-top: 0;
+    }
+    
+    .footer-item2 {
+        text-align: center;
+        margin-top: 20px;
+    }
+    
+    .footer-item3 {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .rodape {
+        height: 120px;
+    }
+
+    #menu-final {
+        color: #fff;
+        font-size: 12px;
+        margin-top: 50px;
+        cursor: pointer;
+        text-align: center;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 20px;
+    }
+
+    #menu-final {
+        display: none;
+    }
 }
