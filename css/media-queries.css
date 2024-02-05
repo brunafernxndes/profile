@@ -110,20 +110,24 @@
 
     .item1 {
         text-align: center;
-        padding-left: 5px;
-        padding-right: 25px;
     }
 
     .item2 {
         text-align: center;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    #imagem-home {
+        max-width: 90%;
     }
 
     #container2 {
         margin-top: 20px;
+        margin-bottom: -110px;
     }
 
     #project {
         margin-right: 10px;
     }
-
 }
