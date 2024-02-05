@@ -1,4 +1,8 @@
 @media screen and (max-width: 1235px) {
+    html, body {
+        overflow-x: hidden;
+    }
+
     #container-escrita {
         margin-top: 700px;
     }
@@ -8,9 +12,34 @@
         margin-bottom: 40px;
     }
 
+    .flex-item1 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .flex-item2 {
+        margin-top: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .flex-item3 {
+        margin-top: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .flex-item4 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
     .flex-item5 {
+        margin-top: 15px;
         margin-bottom: 0;
         padding-bottom: 0;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
     #parte1 {
@@ -23,7 +52,7 @@
     }
 
     #container-escrita {
-        margin-top: 820px;
+        margin-top: 850px;
     }
 
     .fundo {
@@ -58,21 +87,43 @@
     }
 
     .rodape {
-        height: 120px;
-    }
-
-    #menu-final {
-        color: #fff;
-        font-size: 12px;
-        margin-top: 50px;
-        cursor: pointer;
-        text-align: center;
-        padding-left: 0;
-        padding-right: 0;
-        padding-bottom: 20px;
+        height: 160px;
+        padding-top: 25px;
+        margin-top: 20px;
     }
 
     #menu-final {
         display: none;
     }
+
+    .botao-projetos {
+        text-align: center;
+    }
+
+    .botao-certificacao {
+        text-align: center;
+    }
+
+    .escrita {
+        text-align: center;
+    }
+
+    .item1 {
+        text-align: center;
+        padding-left: 5px;
+        padding-right: 25px;
+    }
+
+    .item2 {
+        text-align: center;
+    }
+
+    #container2 {
+        margin-top: 20px;
+    }
+
+    #project {
+        margin-right: 10px;
+    }
+
 }
