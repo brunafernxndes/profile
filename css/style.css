@@ -381,3 +381,27 @@ a {
 a:hover {
     color: #fff;
 }
+
+.certificado-img {
+    height: 450px;
+    width: 650px;
+    margin-top: 30px;
+}
+
+.certificado-img2 {
+    height: 450px;
+    width: 650px;
+    margin-top: 30px;
+}
+
+.certificado-img3 {
+    height: 450px;
+    width: 650px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.container-cert {
+    align-items: center;
+    text-align: center;
+}
