@@ -152,16 +152,21 @@
     }
 
     .certificado-img {
-        margin-top: 30px;
+        height: auto;
+        width: 100%;
     }
     
     .certificado-img2 {
-        margin-top: 30px;
+        height: auto;
+        width: 100%;
     }
     
     .certificado-img3 {
-        margin-top: 30px;
-        margin-bottom: 30px;
+        height: auto;
+        width: 100%;
     }
     
+    .container-cert {
+        margin-left: 3px;
+    }
 }
