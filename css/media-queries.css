@@ -154,23 +154,23 @@
     .certificado-img {
         height: auto;
         width: 100%;
-        margin-top: 15px;
+        margin-top: 20px;
     }
     
     .certificado-img2 {
         height: auto;
         width: 100%;
-        margin-top: 15px;
+        margin-top: 20px;
     }
     
     .certificado-img3 {
         height: auto;
         width: 100%;
-        margin-top: 15px;
-        margin-bottom: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
     
     .container-cert {
-        margin: auto;
+        margin: 10px;
     }
 }
