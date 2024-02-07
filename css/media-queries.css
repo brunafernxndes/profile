@@ -167,6 +167,7 @@
     }
     
     .container-cert {
-        margin-left: 3px;
+        margin-left: 1px;
+        padding: 0;
     }
 }
