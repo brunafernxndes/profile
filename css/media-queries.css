@@ -175,5 +175,6 @@
 
     #imagem-home {
         padding-right: 0;
-    } 
+        margin-left: 20px;
+    }
 }
