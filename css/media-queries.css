@@ -3,10 +3,6 @@
         overflow-x: hidden;
     }
 
-    #container-escrita {
-        margin-top: 700px;
-    }
-
     .f-item1 {
         padding-top: 0;
         margin-bottom: 40px;
@@ -49,10 +45,6 @@
     
     #parte2 {
         margin-right: 100px;
-    }
-
-    #container-escrita {
-        margin-top: 850px;
     }
 
     .fundo {
@@ -116,7 +108,6 @@
 
     .item1 {
         text-align: center;
-        padding-right: 30px;
     }
 
     .item2 {
@@ -173,4 +164,16 @@
     .container-cert {
         margin: 10px;
     }
+
+    .container-experiencia {
+        margin-top: 0;
+    }
+
+    .icones-principal {
+        position: relative;
+    }
+
+    #imagem-home {
+        padding-right: 0;
+    } 
 }

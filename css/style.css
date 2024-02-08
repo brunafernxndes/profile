@@ -33,7 +33,11 @@ body {
 }
 
 #container2 {
-    margin-top: 30px;
+    margin-top: 5px;
+}
+
+#container5 {
+    margin-top: 25px;
 }
 
 #container4 {
@@ -42,9 +46,9 @@ body {
 
 .fundo {
     background-image: linear-gradient(to left, rgba(54, 54, 54), rgba(54, 54, 54) 50%, rgb(65, 65, 65) 50%, rgb(65, 65, 65) 100%, rgba(54, 54, 54) 100%);
-    height: 1110px;
+    height: 100%;
     margin-top: 80px;
-    padding-top: 10px;
+    padding-bottom: 30px;
 }
 
 #icone {
@@ -177,7 +181,7 @@ body {
 }
 
 .container-experiencia {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 #container-projeto {
@@ -335,6 +339,7 @@ body {
 #animation {
     padding-left: 28px;
     position: absolute;
+    text-align: center;
 }
 
 .icones-parte1 {
@@ -343,6 +348,10 @@ body {
 
 .item1 {
     margin-top: 50px;
+}
+
+#imagem-home {
+    padding-right: 20px;
 }
 
 .icones-parte2 {

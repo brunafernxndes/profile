@@ -10,7 +10,7 @@
 
 .item1 #icon-ling1 {
 	border-radius: 100%;
-	width: 50px;
+	width: 30px;
 	height: 3px;
 	animation: quica 0.4s cubic-bezier(.53, -0.03, .67, 1.06);
 	animation-direction: alternate-reverse;
@@ -28,7 +28,7 @@
 
 .item1 #icon-ling3 {
 	border-radius: 100%;
-	width: 90px;
+	width: 70px;
 	height: 3px;
 	animation: quica 0.4s cubic-bezier(.53, -0.03, .67, 1.06);
 	animation-direction: alternate-reverse;
@@ -55,7 +55,7 @@
 
 .item1 #icon-ling6 {
 	border-radius: 100%;
-	width: 50px;
+	width: 70px;
 	height: 3px;
 	animation: quica 0.4s cubic-bezier(.53, -0.03, .67, 1.06);
 	animation-direction: alternate;
@@ -64,7 +64,7 @@
 
 .item1 #icon-ling7 {
 	border-radius: 100%;
-	width: 50px;
+	width: 20px;
 	height: 3px;
 	animation: quica 0.4s cubic-bezier(.53, -0.03, .67, 1.06);
 	animation-direction: alternate-reverse;
