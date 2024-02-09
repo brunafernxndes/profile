@@ -176,10 +176,6 @@ body {
     color: #fff;
 }
 
-#img-direita {
-    margin-left: 40px;
-}
-
 .container-experiencia {
     margin-top: 30px;
 }
@@ -429,30 +425,23 @@ a:hover {
     padding-left: 30px;
 }
 
-.certificados-responsivo {
-    display: flex;
-    width: 100%;
-    height: 60vh;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
+.view-certification {
+    background-color: #99454F;
+    color: #fff;
+    border: none;
+    padding: 10px 5px 10px 5px;
+    font-size: 14px;
+    width: 190px;
+    box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
 }
 
-.slider {
-    width: 100%;
-    opacity: 0;
-    transition: opacity .2s;
-    position: absolute;
-}
-  
-.imagens-responsivo {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 700px;
+.botao-index {
+    text-align: center;
+    margin-top: 25px;
 }
 
-.on {
-    opacity: 1;
+.botao-index2 {
+    text-align: center;
+    margin-bottom: 25px;
 }
