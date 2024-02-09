@@ -129,7 +129,7 @@
     }
 
     .item1 #icon-ling6 {
-        width: 60px;
+        width: 40px;
         margin-right: 10px;
     }
 
@@ -194,6 +194,7 @@
         opacity: 0;
         transition: opacity .2s;
         position: absolute;
+        text-align: center;
     }
       
     .imagens-responsivo {
@@ -202,10 +203,23 @@
         align-items: center;
         justify-content: center;
         width: 700px;
+        text-align: center;
     }
     
     .on {
         opacity: 1;
+    }
+
+    .fundo-certificado {
+        width: 100%;
+    }
+
+    #icon-cert {
+        margin-left: 280px;
+    }
+
+    .botao-certificacao {
+        padding-bottom: 15px;
     }
 }
 @media (min-width: 992px) {
